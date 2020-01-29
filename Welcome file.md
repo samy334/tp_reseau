@@ -20,5 +20,5 @@ passerelle carte wifi : 10.33.3.253</p>
 <h2 id="b.-nmap">B. nmap</h2>
 <p>Etant  donné que je ne peux pas avoir nmap sur windows je suis dans l’impossibilité de faire le B. et le C.</p>
 <h1 id="ii.-exploration-locale-en-duo">II. Exploration locale en duo</h1>
-<p>Je n’est pas de port Ethernet sur mon pc, je ne peux donc pas faire cette partie du tp.</p>
+<p>Je n’est pas de port Ethernet sur mon pc, je ne peux donc pas faire cette partie du tp. j’ai cependant suivie comment le faisait un autre groupe.</p>
 
